@@ -44,23 +44,23 @@ __Freelance Developer__
 ## Academic Background
 
 `2017`
-- **Higher Degree in Application Development** - 
+- **Higher Degree in Application Development**
   IES El Rincón
 
 `2024`
-- **Codecademy Front-End Engineer Career Path** - 2024
+- **Codecademy Front-End Engineer Career Path**
 
 `2024`
-- **Codecademy Vue.js** - 2024
+- **Codecademy Vue.js**
 
 `2023`
-- **Clean Code applied for clean and profitable developments** - 2023
+- **Clean Code applied for clean and profitable developments**
 
 `2023`
-- **Linux for DevOps and Sysadmin using Docker and CI/CD** - 2023
+- **Linux for DevOps and Sysadmin using Docker and CI/CD**
 
 `2023`
-- **Machine Learning with Python** - 2023
+- **Machine Learning with Python**
 
 ## Skills
 
@@ -87,8 +87,8 @@ __Freelance Developer__
 A project I lead that provides a useful tool for teachers.
 
 - **Technologies**: Laravel PHP, PostgreSQL, Openshift, Docker
-- [Video 1](#)
-- [Video 2](#)
+- [Video 1]([#](https://www3.gobiernodecanarias.org/medusa/mediateca/ecoescuela/?attachment_id=6173)
+- [Video 2](https://www3.gobiernodecanarias.org/medusa/mediateca/ecoescuela/?attachment_id=6172)
 
 ![Lexicán](link_to_image)
 
@@ -97,14 +97,14 @@ A project I lead that provides a useful tool for teachers.
 - Web application with Laravel.
 - Front with VUE 2 migrated to VUE 3
 - API with GraphQL
-- [https://edi.comces](https://edi.comces)
+- [https://edi.cnmc.es/](https://edi.cnmc.es/)
 
 ### EVAGD, Altia, Education Government of the Canary Islands
 
 - Moodle platform for educational centers
 - Own system for creating and loading backups with web services
 - Storage in Alfresco
-- [Online Presentation](#)
+- [Online Presentation](https://www3.gobiernodecanarias.org/medusa/ecoescuela/proyectoevagd/?p=3751)
 
 ### Child-Friendly Cities, Unicef
 
@@ -115,8 +115,8 @@ A project I lead that provides a useful tool for teachers.
 ### Aritmates, Altia, Ministry of Education, Government of the Canary Islands
 
 - Web application in JavaScript for performing mathematical exercises
-- Webpack, Webcomponents
-- [https://www3.gobiernodecanarias.org/medusa/aups/aritmates/](https://www3.gobiernodecanarias.org/medusa/aups/aritmates/)
+- Webpack, WebComponents
+- [https://www3.gobiernodecanarias.org/medusa/apps/aritmates/](https://www3.gobiernodecanarias.org/medusa/apps/aritmates/)
 
 ![Aritmates](link_to_image)
 
@@ -139,7 +139,7 @@ A project I lead that provides a useful tool for teachers.
 ### Demiurge-project.org, Canary Islands Botanical Garden "Viera y Clavijo". CSIC, ITC
 
 - Website to upload data and geolocate information on species populations, aimed at researchers
-- Ruby On Rails, and front with jQuery
+- Ruby On Rails,  jQuery
 - [www.demiurge-project.org](http://www.demiurge-project.org)
 
 

@@ -6,9 +6,8 @@ title: Fernando Ramirez's CV
 
 ## Contact
 
-- Phone: 690378869
 - Email: [imaginabit@gmail.com](mailto:imaginabit@gmail.com)
-- LinkedIn: [linkedin.com/in/fernandorn](https://www.linkedin.com/in/fernandorn)
+- LinkedIn: [linkedin.com/in/fernandorp](https://www.linkedin.com/in/fernandorp)
 
 ## About Me
 
@@ -16,11 +15,12 @@ Web developer with over 10 years of experience specializing in the creation of r
 
 ## Recognitions
 
-- **Ya no desperdicio**: World Summit Award.
+- **Yo no desperdicio**: [World Summit Award](https://wsa-global.org/winner/yonodesperdicio-org/).
 
 ## Work Experience
 
-### Full Stack Developer for the Ministry of Education, Government of the Canary Islands
+`2019-2024`
+__Full Stack Developer for the Ministry of Education, Government of the Canary Islands__
 **Altia, S.L. | 2019 - 2024**
 
 I participate in multiple projects, leading some of them, such as Lexicán and Aritmates.
@@ -30,8 +30,9 @@ I participate in multiple projects, leading some of them, such as Lexicán and A
 - **Databases**: Postgres, MariaDB, MongoDB
 - **Tools**: Docker, Openshift, CI/CD
 
-### Freelance Developer
-**imaginabit | 2007 - 2019**
+`2007 - 2019`
+__Freelance Developer__
+**imaginabit**
 
 - Android Applications (Java and Kotlin)
 - Ruby on Rails
@@ -42,12 +43,23 @@ I participate in multiple projects, leading some of them, such as Lexicán and A
 
 ## Academic Background
 
-- **Higher Degree in Application Development** - 2017
+`2017`
+- **Higher Degree in Application Development** - 
   IES El Rincón
+
+`2024`
 - **Codecademy Front-End Engineer Career Path** - 2024
+
+`2024`
 - **Codecademy Vue.js** - 2024
+
+`2023`
 - **Clean Code applied for clean and profitable developments** - 2023
+
+`2023`
 - **Linux for DevOps and Sysadmin using Docker and CI/CD** - 2023
+
+`2023`
 - **Machine Learning with Python** - 2023
 
 ## Skills
@@ -61,7 +73,7 @@ I participate in multiple projects, leading some of them, such as Lexicán and A
 ## Languages
 
 - **Spanish**: Native
-- **English**: Intermediate level
+- **English**: Intermediate level B1
 
 ## Featured Projects
 

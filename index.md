@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Fernando Ramirez's CV
 ---
 # Fernando Ramírez Pérez
 

@@ -2,90 +2,139 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Fernando Ramírez Pérez
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+## Contact
 
+- Phone: 690378869
+- Email: [imaginabit@gmail.com](mailto:imaginabit@gmail.com)
+- LinkedIn: [linkedin.com/in/fernandorn](https://www.linkedin.com/in/fernandorn)
 
-## Currently
+## About Me
 
-Standing on the shoulders of giants
+Web developer with over 10 years of experience specializing in the creation of robust and scalable applications. I have worked on multiple projects both independently and as part of a team, using a wide range of languages, frameworks, and technologies. My focus is on staying up-to-date with best practices in web development, clean code, optimization, and delivering efficient solutions tailored to each project.
 
-### Specialized in
+## Recognitions
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- **Ya no desperdicio**: World Summit Award.
 
+## Work Experience
 
-### Research interests
+### Full Stack Developer for the Ministry of Education, Government of the Canary Islands
+**Altia, S.L. | 2019 - 2024**
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+I participate in multiple projects, leading some of them, such as Lexicán and Aritmates.
 
+- **Languages and frameworks**: PHP (Laravel, Symfony, Moodle), JavaScript (Angular, Vue)
+- **APIs**: REST, OpenAPI, Swagger, and also GraphQL
+- **Databases**: Postgres, MariaDB, MongoDB
+- **Tools**: Docker, Openshift, CI/CD
 
-## Education
+### Freelance Developer
+**imaginabit | 2007 - 2019**
 
-`1654-1660`
-__The King's School, Grantham.__
+- Android Applications (Java and Kotlin)
+- Ruby on Rails
+- Django (Python)
+- Drupal
+- Development of sites and plugins in WordPress
+- Automation of data migration from Joomla to WordPress
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Academic Background
 
-- Sizar
+- **Higher Degree in Application Development** - 2017
+  IES El Rincón
+- **Codecademy Front-End Engineer Career Path** - 2024
+- **Codecademy Vue.js** - 2024
+- **Clean Code applied for clean and profitable developments** - 2023
+- **Linux for DevOps and Sysadmin using Docker and CI/CD** - 2023
+- **Machine Learning with Python** - 2023
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Skills
 
-- Fellow
+- Agile and Scrum
+- Team management
+- Problem-solving
+- Proactive
+- Results-oriented
 
+## Languages
 
+- **Spanish**: Native
+- **English**: Intermediate level
 
-## Awards
+## Featured Projects
 
-`2012`
-President, *Royal Society*, London, UK
+### ITCB, Altia, Ministry of Education, Government of the Canary Islands
 
-Associate, *French Academy of Science*, Paris, France
+- API to obtain data from different areas of educational centers, teachers, and students
+- **Technologies**: Laravel
 
+### Lexicán, Altia, Ministry of Education, Government of the Canary Islands
 
+A project I lead that provides a useful tool for teachers.
 
-## Publications
+- **Technologies**: Laravel PHP, PostgreSQL, Openshift, Docker
+- [Video 1](#)
+- [Video 2](#)
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+![Lexicán](link_to_image)
 
-### Journals
+### EDI, Altia, National Commission for Markets and Competition
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+- Web application with Laravel.
+- Front with VUE 2 migrated to VUE 3
+- API with GraphQL
+- [https://edi.comces](https://edi.comces)
 
-`1669`
-Lectiones opticæ.
+### EVAGD, Altia, Education Government of the Canary Islands
 
-etc. etc. etc.
+- Moodle platform for educational centers
+- Own system for creating and loading backups with web services
+- Storage in Alfresco
+- [Online Presentation](#)
 
-### Patents
+### Child-Friendly Cities, Unicef
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- PHP, WordPress Plugin
+- JavaScript Angular front
+- [ciudadesamigas.org](https://ciudadesamigas.org)
 
+### Aritmates, Altia, Ministry of Education, Government of the Canary Islands
 
-## Occupation
+- Web application in JavaScript for performing mathematical exercises
+- Webpack, Webcomponents
+- [https://www3.gobiernodecanarias.org/medusa/aups/aritmates/](https://www3.gobiernodecanarias.org/medusa/aups/aritmates/)
 
-`1600`
-__Royal Mint__, London
+![Aritmates](link_to_image)
 
-- Warden
-- Minted coins
+### Movesafer
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Development of a workplace safety and personnel access control system
+- Python, API
+
+### Android App Yo No Desperdicio, Prosalus
+
+- Native Android application, Java
+- [https://play.google.com/store/apps/details?id=com.prosalus.yonodesperdicio](https://play.google.com/store/apps/details?id=com.prosalus.yonodesperdicio)
+
+![Yo No Desperdicio](link_to_image)
+
+### Alpuca SX
+
+- Django (Python), Docker
+
+### Demiurge-project.org, Canary Islands Botanical Garden "Viera y Clavijo". CSIC, ITC
+
+- Website to upload data and geolocate information on species populations, aimed at researchers
+- Ruby On Rails, and front with jQuery
+- [www.demiurge-project.org](http://www.demiurge-project.org)
+
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: November 2024 -->
 
 

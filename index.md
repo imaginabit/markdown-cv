@@ -5,10 +5,7 @@ title: Fernando Ramirez's CV
 # Fernando Ramírez Pérez
 
 ## Contact
-
-- Phone: 690378869
-- Email: [imaginabit@gmail.com](mailto:imaginabit@gmail.com)
-- LinkedIn: [linkedin.com/in/fernandorn](https://www.linkedin.com/in/fernandorn)
+- LinkedIn: [linkedin.com/in/fernandorp](https://www.linkedin.com/in/fernandorp)
 
 ## About Me
 

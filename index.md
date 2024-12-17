@@ -75,7 +75,6 @@ A project I lead that provides a useful tool for teachers.
 - [Video 1](#)
 - [Video 2](#)
 
-![Lexicán](link_to_image)
 
 ### EDI, Altia, National Commission for Markets and Competition
 
@@ -103,8 +102,6 @@ A project I lead that provides a useful tool for teachers.
 - Webpack, Webcomponents
 - [https://www3.gobiernodecanarias.org/medusa/aups/aritmates/](https://www3.gobiernodecanarias.org/medusa/aups/aritmates/)
 
-![Aritmates](link_to_image)
-
 ### Movesafer
 
 - Development of a workplace safety and personnel access control system
@@ -115,8 +112,6 @@ A project I lead that provides a useful tool for teachers.
 - Native Android application, Java
 - [https://play.google.com/store/apps/details?id=com.prosalus.yonodesperdicio](https://play.google.com/store/apps/details?id=com.prosalus.yonodesperdicio)
 
-![Yo No Desperdicio](link_to_image)
-
 ### Alpuca SX
 
 - Django (Python), Docker
@@ -126,7 +121,6 @@ A project I lead that provides a useful tool for teachers.
 - Website to upload data and geolocate information on species populations, aimed at researchers
 - Ruby On Rails, and front with jQuery
 - [www.demiurge-project.org](http://www.demiurge-project.org)
-
 
 
 

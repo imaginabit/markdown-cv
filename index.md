@@ -81,14 +81,14 @@ A project I lead that provides a useful tool for teachers.
 - Web application with Laravel.
 - Front with VUE 2 migrated to VUE 3
 - API with GraphQL
-- [https://edi.comces](https://edi.comces)
+- [https://edi.com.es](https://edi.cnmc.es/)
 
 ### EVAGD, Altia, Education Government of the Canary Islands
 
 - Moodle platform for educational centers
 - Own system for creating and loading backups with web services
 - Storage in Alfresco
-- [Online Presentation](#)
+- [Online Presentation](https://www3.gobiernodecanarias.org/medusa/mediateca/evagd/?attachment_id=729)
 
 ### Child-Friendly Cities, Unicef
 
@@ -100,7 +100,7 @@ A project I lead that provides a useful tool for teachers.
 
 - Web application in JavaScript for performing mathematical exercises
 - Webpack, Webcomponents
-- [https://www3.gobiernodecanarias.org/medusa/aups/aritmates/](https://www3.gobiernodecanarias.org/medusa/aups/aritmates/)
+- [Aritmates](https://www3.gobiernodecanarias.org/medusa/apps/aritmates/)
 
 ### Movesafer
 

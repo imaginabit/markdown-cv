@@ -72,9 +72,7 @@ I participate in multiple projects, leading some of them, such as Lexicán and A
 A project I lead that provides a useful tool for teachers.
 
 - **Technologies**: Laravel PHP, PostgreSQL, Openshift, Docker
-- [Video 1](#)
-- [Video 2](#)
-
+- [Video: un diccionario colaborativo](https://www3.gobiernodecanarias.org/medusa/mediateca/ecoescuela/?attachment_id=6172)
 
 ### EDI, Altia, National Commission for Markets and Competition
 

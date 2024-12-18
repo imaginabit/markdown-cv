@@ -13,7 +13,7 @@ Web developer with over 10 years of experience specializing in the creation of r
 
 ## Recognitions
 
-- **Ya no desperdicio**: [World Summit Award](https://wsa-global.org/winner/yonodesperdicio-org/)
+- **Yo no desperdicio**: [World Summit Award](https://wsa-global.org/winner/yonodesperdicio-org/)
 
 ## Work Experience
 

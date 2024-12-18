@@ -47,6 +47,7 @@ I participate in multiple projects, leading some of them, such as Lexicán and A
 - **Clean Code applied for clean and profitable developments** - 2023
 - **Linux for DevOps and Sysadmin using Docker and CI/CD** - 2023
 - **Machine Learning with Python** - 2023
+- **Python para Data Science** - 2023
 
 ## Skills
 

@@ -58,13 +58,14 @@ I participate in multiple projects, leading some of them, such as Lexicán and A
 ## Languages
 
 - **Spanish**: Native
-- **English**: Intermediate level
+- **English**: B2
 
 ## Featured Projects
 
 ### ITCB, Altia, Ministry of Education, Government of the Canary Islands
 
-- API to obtain data from different areas of educational centers, teachers, and students
+API to obtain data from different areas of educational centers, teachers, and student
+
 - **Technologies**: Laravel
 
 ### Lexicán, Altia, Ministry of Education, Government of the Canary Islands
@@ -88,7 +89,7 @@ A project I lead that provides a useful tool for teachers.
 - Storage in Alfresco
 - [Online Presentation](https://www3.gobiernodecanarias.org/medusa/mediateca/evagd/?attachment_id=729)
 
-### Child-Friendly Cities, Unicef
+### Ciudades Amigas de la Infancia, Unicef
 
 - PHP, WordPress Plugin
 - JavaScript Angular front

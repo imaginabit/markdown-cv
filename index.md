@@ -39,8 +39,9 @@ I participate in multiple projects, leading some of them, such as Lexicán and A
 
 ## Academic Background
 
-- **Higher Degree in Application Development** - 2017
+- **Higher Degree in Application Development**
   IES El Rincón
+  
 - **Codecademy Front-End Engineer Career Path** - 2024
 - **Codecademy Vue.js** - 2024
 - **Clean Code applied for clean and profitable developments** - 2023
@@ -109,7 +110,9 @@ A project I lead that provides a useful tool for teachers.
 ### Android App Yo No Desperdicio, Prosalus
 
 - Native Android application, Java
-- [https://play.google.com/store/apps/details?id=com.prosalus.yonodesperdicio](https://play.google.com/store/apps/details?id=com.prosalus.yonodesperdicio)
+- [Google Play](https://play.google.com/store/apps/details?id=com.prosalus.yonodesperdicio)
+- [Screenshots](https://www.freepress.coop/project/app-yo-no-desperdicio/)
+
 
 ### Alpuca SX
 

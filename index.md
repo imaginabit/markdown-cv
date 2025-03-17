@@ -40,8 +40,9 @@ I participate in multiple projects, leading some of them, such as Lexicán and A
 ## Academic Background
 
 - **Higher Degree in Application Development**
-  IES El Rincón
-  
+  IES El Rincón - 2009
+
+- **English B2 Cambridge Certificate** - 2025
 - **Codecademy Front-End Engineer Career Path** - 2024
 - **Codecademy Vue.js** - 2024
 - **Clean Code applied for clean and profitable developments** - 2023

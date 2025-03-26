@@ -1,125 +1,123 @@
-@media print {
-    /* =============================================
-       RESET PARA IMPRESIÓN
-    ============================================= */
-    body {
-      background: white !important;
-      color: black !important;
-      width: 100% !important;
-      margin: 0 !important;
-      padding: 0.5cm !important;
-      font-size: 12pt;
-      line-height: 1.2;
-    }
-  
-    /* =============================================
-       AJUSTES DE COLOR Y FONDO
-    ============================================= */
-    #content {
-      background: white !important;
-      padding: 0 !important;
-    }
-  
-    #contact,
-    #about-me,
-    #recognitions {
-      color: #333 !important;
-    }
-  
-    /* =============================================
-       TIPOGRAFÍA PARA IMPRESIÓN
-    ============================================= */
-    h1 {
-      font-size: 24pt !important;
-      margin-top: 0.5cm !important;
-    }
-  
-    h2 {
-      font-size: 14pt !important;
-      margin: 0.3cm 0 !important;
-    }
-  
-    h3, h4 {
-      font-size: 12pt !important;
-    }
-  
-    p, li {
-      font-size: 11pt !important;
-    }
-  
-    /* =============================================
-       MÁRGENES Y PADDING EN UNIDADES ABSOLUTAS
-    ============================================= */
-    #content {
-      grid-template-columns: repeat(4, 1fr);
-      column-gap: 0.3cm;
-      row-gap: 0;
-    }
-  
-    #featured-projects {
-      margin-top: 1.5cm !important;
-    }
-  
-    #academic-background + ul {
-      padding-bottom: 0.5cm !important;
-    }
-  
-    /* =============================================
-       BORDES Y SEPARADORES
-    ============================================= */
-    h1,
-    #work-experience,
-    #featured-projects,
-    #academic-background,
-    #skills,
-    #languages {
-      border-bottom: 0.5pt solid #000 !important;
-    }
-  
-    #academic-background + ul {
-      border-bottom-width: 1pt !important;
-    }
-  
-    /* =============================================
-       LISTAS Y ELEMENTOS EN BLOQUE
-    ============================================= */
-    ul {
-      page-break-inside: avoid;
-    }
-  
-    #skills + ul,
-    #languages + ul {
-      margin-top: 0.3cm !important;
-    }
-  
-    /* =============================================
-       OPTIMIZACIÓN DE ESPACIO
-    ============================================= */
-    #full-stack-developer-for-the-ministry-of-education-government-of-the-canary-islands {
-      grid-row: span 2;
-    }
-  
-    /* =============================================
-       EVITAR SALTO DE PÁGINA EN ELEMENTOS CLAVE
-    ============================================= */
-    h1, h2, h3 {
-      page-break-after: avoid;
-    }
-  
-    /* =============================================
-       AJUSTES FINOS
-    ============================================= */
-    #work-experience ~ p,
-    #work-experience ~ ul,
-    #work-experience + h3 + p {
-      padding-left: 0.3cm !important;
-    }
-  
-    #skills, #languages {
-      text-decoration: none !important;
-    }
-  
-    #academic-background + ul li {
-      padding-left: 0.3cm !important;
-    }
-  }
+/* =============================================
+    RESET PARA IMPRESIÓN
+============================================= */
+body {
+    background: white !important;
+    color: black !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0.5cm !important;
+    font-size: 12pt;
+    line-height: 1.2;
+}
+
+/* =============================================
+    AJUSTES DE COLOR Y FONDO
+============================================= */
+#content {
+    background: white !important;
+    padding: 0 !important;
+}
+
+#contact,
+#about-me,
+#recognitions {
+    color: #333 !important;
+}
+
+/* =============================================
+    TIPOGRAFÍA PARA IMPRESIÓN
+============================================= */
+h1 {
+    font-size: 24pt !important;
+    margin-top: 0.5cm !important;
+}
+
+h2 {
+    font-size: 14pt !important;
+    margin: 0.3cm 0 !important;
+}
+
+h3, h4 {
+    font-size: 12pt !important;
+}
+
+p, li {
+    font-size: 11pt !important;
+}
+
+/* =============================================
+    MÁRGENES Y PADDING EN UNIDADES ABSOLUTAS
+============================================= */
+#content {
+    grid-template-columns: repeat(4, 1fr);
+    column-gap: 0.3cm;
+    row-gap: 0;
+}
+
+#featured-projects {
+    margin-top: 1.5cm !important;
+}
+
+#academic-background + ul {
+    padding-bottom: 0.5cm !important;
+}
+
+/* =============================================
+    BORDES Y SEPARADORES
+============================================= */
+h1,
+#work-experience,
+#featured-projects,
+#academic-background,
+#skills,
+#languages {
+    border-bottom: 0.5pt solid #000 !important;
+}
+
+#academic-background + ul {
+    border-bottom-width: 1pt !important;
+}
+
+/* =============================================
+    LISTAS Y ELEMENTOS EN BLOQUE
+============================================= */
+ul {
+    page-break-inside: avoid;
+}
+
+#skills + ul,
+#languages + ul {
+    margin-top: 0.3cm !important;
+}
+
+/* =============================================
+    OPTIMIZACIÓN DE ESPACIO
+============================================= */
+#full-stack-developer-for-the-ministry-of-education-government-of-the-canary-islands {
+    grid-row: span 2;
+}
+
+/* =============================================
+    EVITAR SALTO DE PÁGINA EN ELEMENTOS CLAVE
+============================================= */
+h1, h2, h3 {
+    page-break-after: avoid;
+}
+
+/* =============================================
+    AJUSTES FINOS
+============================================= */
+#work-experience ~ p,
+#work-experience ~ ul,
+#work-experience + h3 + p {
+    padding-left: 0.3cm !important;
+}
+
+#skills, #languages {
+    text-decoration: none !important;
+}
+
+#academic-background + ul li {
+    padding-left: 0.3cm !important;
+}

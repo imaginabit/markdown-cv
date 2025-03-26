@@ -1,123 +1,57 @@
 /* =============================================
-    RESET PARA IMPRESIÓN
+   ESTILOS ESPECÍFICOS PARA IMPRESIÓN
 ============================================= */
+
+/* Reset básico para impresión */
+* {
+  background: transparent !important;
+  color: #000 !important;
+  text-shadow: none !important;
+  box-shadow: none !important;
+}
+
+/* Contenedor principal */
+#content {
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 1cm !important;
+  background: white !important;
+}
+
+/* Tipografía */
 body {
-    background: white !important;
-    color: black !important;
-    width: 100% !important;
-    margin: 0 !important;
-    padding: 0.5cm !important;
-    font-size: 12pt;
-    line-height: 1.2;
+  font-size: 12pt !important;
+  line-height: 1.4 !important;
+  font-family: "Times New Roman", serif !important;
 }
 
-/* =============================================
-    AJUSTES DE COLOR Y FONDO
-============================================= */
+h1 { font-size: 24pt !important; }
+h2 { font-size: 18pt !important; }
+h3 { font-size: 14pt !important; }
+
+/* Grid adaptado a papel */
 #content {
-    background: white !important;
-    padding: 0 !important;
+  display: block !important; /* Anula el grid para impresión */
 }
 
-#contact,
-#about-me,
-#recognitions {
-    color: #333 !important;
+/* Bordes y separadores */
+.section-header {
+  border-bottom: 1pt solid #000 !important;
 }
 
-/* =============================================
-    TIPOGRAFÍA PARA IMPRESIÓN
-============================================= */
-h1 {
-    font-size: 24pt !important;
-    margin-top: 0.5cm !important;
+/* Enlaces visibles */
+a::after {
+  content: " (" attr(href) ")";
+  font-size: 10pt;
+  color: #666 !important;
 }
 
-h2 {
-    font-size: 14pt !important;
-    margin: 0.3cm 0 !important;
+/* Control de saltos de página */
+@page {
+  margin: 2cm;
+  size: A4;
 }
 
-h3, h4 {
-    font-size: 12pt !important;
-}
-
-p, li {
-    font-size: 11pt !important;
-}
-
-/* =============================================
-    MÁRGENES Y PADDING EN UNIDADES ABSOLUTAS
-============================================= */
-#content {
-    grid-template-columns: repeat(4, 1fr);
-    column-gap: 0.3cm;
-    row-gap: 0;
-}
-
-#featured-projects {
-    margin-top: 1.5cm !important;
-}
-
-#academic-background + ul {
-    padding-bottom: 0.5cm !important;
-}
-
-/* =============================================
-    BORDES Y SEPARADORES
-============================================= */
-h1,
-#work-experience,
-#featured-projects,
-#academic-background,
-#skills,
-#languages {
-    border-bottom: 0.5pt solid #000 !important;
-}
-
-#academic-background + ul {
-    border-bottom-width: 1pt !important;
-}
-
-/* =============================================
-    LISTAS Y ELEMENTOS EN BLOQUE
-============================================= */
-ul {
-    page-break-inside: avoid;
-}
-
-#skills + ul,
-#languages + ul {
-    margin-top: 0.3cm !important;
-}
-
-/* =============================================
-    OPTIMIZACIÓN DE ESPACIO
-============================================= */
-#full-stack-developer-for-the-ministry-of-education-government-of-the-canary-islands {
-    grid-row: span 2;
-}
-
-/* =============================================
-    EVITAR SALTO DE PÁGINA EN ELEMENTOS CLAVE
-============================================= */
-h1, h2, h3 {
-    page-break-after: avoid;
-}
-
-/* =============================================
-    AJUSTES FINOS
-============================================= */
-#work-experience ~ p,
-#work-experience ~ ul,
-#work-experience + h3 + p {
-    padding-left: 0.3cm !important;
-}
-
-#skills, #languages {
-    text-decoration: none !important;
-}
-
-#academic-background + ul li {
-    padding-left: 0.3cm !important;
+.avoid-break {
+  page-break-inside: avoid !important;
 }

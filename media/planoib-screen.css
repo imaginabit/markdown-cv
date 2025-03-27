@@ -143,9 +143,11 @@ h1,
 ============================================= */
 #academic-background ~ ul,
 #formación-académica ~ ul {
-  padding-bottom: 2em;
+  /*
+   padding-bottom: 2em;
   border-bottom: 2px solid black;
-  grid-column: 1 / -1;
+  */
+   grid-column: 1 / -1;
   list-style-type: square;
   list-style-position: inside;
   padding-left: 1em;

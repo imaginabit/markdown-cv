@@ -141,8 +141,8 @@ h1,
 /* =============================================
    ESTILOS DE LISTAS
 ============================================= */
-#academic-background + ul,
-#formación-académica + ul {
+#academic-background ~ ul,
+#formación-académica ~ ul {
   padding-bottom: 2em;
   border-bottom: 2px solid black;
   grid-column: 1 / -1;
@@ -151,13 +151,14 @@ h1,
   padding-left: 1em;
 }
 
-#academic-background + ul li:first-child,
-#formación-académica + ul li:first-child {
+
+#academic-background ~ ul li:first-child,
+#formación-académica ~ ul li:first-child {
   padding-bottom: 1em;
 }
 
-#academic-background + ul li,
-#formación-académica + ul li {
+#academic-background ~ ul li,
+#formación-académica ~ ul li {
   padding-left: 1em;
 }
 

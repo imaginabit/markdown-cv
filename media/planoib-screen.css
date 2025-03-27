@@ -196,7 +196,9 @@ h1,
   font-weight: bold;
 }
 
-h1{ margin-bottom: 0.6em }
+h1, h2{ 
+   margin-bottom: 0.6em 
+}
 
 
 #skills,

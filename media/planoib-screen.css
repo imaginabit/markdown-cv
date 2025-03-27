@@ -84,8 +84,11 @@ h2, h3 { color: black; }
 ============================================= */
 h1,
 #work-experience,
+#experiencia-laboral,
 #featured-projects,
-#academic-background {
+#proyectos-destacados,
+#academic-background,
+#formación-académica {
   grid-column: span 4;
 }
 
@@ -103,7 +106,10 @@ p, ul {
   grid-column: 1 / -1;
 }
 
-#skills, #languages {
+#skills,
+#habilidades,
+#languages,
+#idiomas {
   grid-column: span 1;
 }
 
@@ -116,20 +122,27 @@ p, ul {
 ============================================= */
 h1,
 #work-experience,
+#experiencia-laboral,
 #featured-projects,
+#proyectos-destacados,
 #academic-background,
+#formación-académica,
 #skills,
-#languages {
+#habilidades,
+#languages,
+#idiomas {
   border-bottom: 1px solid black;
   padding: 0 0.5em;
 }
 
-#featured-projects { margin-top: 5rem; }
+#featured-projects,
+#proyectos-destacados { margin-top: 5rem; }
 
 /* =============================================
    ESTILOS DE LISTAS
 ============================================= */
-#academic-background + ul {
+#academic-background + ul,
+#formación-académica + ul {
   padding-bottom: 2em;
   border-bottom: 2px solid black;
   grid-column: 1 / -1;
@@ -138,33 +151,43 @@ h1,
   padding-left: 1em;
 }
 
-#academic-background + ul li:first-child {
+#academic-background + ul li:first-child,
+#formación-académica + ul li:first-child {
   padding-bottom: 1em;
 }
 
-#academic-background + ul li {
+#academic-background + ul li,
+#formación-académica + ul li {
   padding-left: 1em;
 }
 
 #skills + ul,
-#languages + ul {
+#habilidades + ul,
+#languages + ul,
+#idiomas + ul {
   margin-top: 1em;
   grid-column: span 1;
 }
 
-#work-experience + h3 + p {
+#work-experience + h3 + p,
+#experiencia-laboral + h3 + p {
   padding-left: 1em;
 }
 
 #work-experience ~ ul,
-#work-experience ~ p {
+#experiencia-laboral ~ ul,
+#work-experience ~ p,
+#experiencia-laboral ~ p {
   padding-left: 1em;
 }
 
 /* =============================================
    ESTILOS ESPECÍFICOS DE COMPONENTES
 ============================================= */
-#skills, #languages {
+#skills,
+#habilidades,
+#languages,
+#idiomas {
   text-decoration: underline;
   border: none;
 }

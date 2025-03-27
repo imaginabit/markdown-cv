@@ -19,7 +19,7 @@ Mi enfoque se centra en mantenerme actualizado con las mejores prácticas del de
 
 `2019 - 2024`
 ### Desarrollador Full Stack para la Consejería de Educación, Gobierno de Canarias
-**Altia, S.L. | **
+**Altia, S.L.**
 
 Participo  en múltiples proyectos, liderando algunos de ellos, como Lexicán y Aritmates.
  - Lenguajes y frameworks: PHP (Laravel, Symfony, Moodle), JavaScript (Angular, Vue)

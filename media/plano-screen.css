@@ -86,42 +86,48 @@ ul {
 
 
 h1,
-#work-experience,
-#featured-projects,
-#academic-background {
+#work-experience,#featured-projects,#academic-background,
+#experiencia-laboral,#formación-académica, #proyectos-destacados
+{
 	grid-column: span 4;
 	/* Ocupa 2 columnas */
 	/* color: rgba(75, 130, 206, 0.9); Professional blue */
 	/* width: 100%; */
 }
 
-#work-experience+h3+p {
+#work-experience+h3+p, #experiencia-laboral+h3+p {
 	/* background-color: red; */
 	padding-left: 1em;
 }
 
-#work-experience ~ ul 
+#work-experience ~ ul ,
+#experiencia-laboral ~ ul
 {
 	padding-left: 1em;
 }
 
-#work-experience ~ p 
+#work-experience ~ p ,
+#experiencia-laboral ~ p
 {
 	padding-left: 1em;
 }
 
-#skills,
-#languages {
+#skills,#languages,
+#habilidades, #idiomas
+{
 	grid-column: 1 span;
 	/* Ocupa 2 columnas */
 }
 
+#proyectos-destacados,
 #featured-projects {
 	margin-top: 5rem;
 }
 
 
 h1,
+#habilidades, #idiomas,
+#experiencia-laboral,#formación-académica, #proyectos-destacados,
 #work-experience,
 #featured-projects,
 #academic-background,
@@ -135,7 +141,7 @@ h1,
 
 
 
-
+#formación-académica+ul ,
 #academic-background+ul{
 	padding-bottom: 2em;
 	border-bottom: 2px solid black;
@@ -144,14 +150,17 @@ h1,
     list-style-position: inside;
     padding-left: 1em; 
 }
+#formación-académica+ul li:first-child,
 #academic-background+ul li:first-child{
 	padding-bottom: 1em;
 }
 
+#formación-académica+ul li,
 #academic-background+ul li{
 	padding-left: 1em;
 }
 
+#habilidades, #idiomas,
 #skills,
 #languages {
 	text-decoration: underline;
@@ -159,20 +168,16 @@ h1,
 	grid-column: 1 span;
 }
 
+#habilidades+ul, 
+#idiomas+ul,
 #skills+ul,
 #languages+ul {
 	margin-top: 1em;
-}
-
-
-#skills+ul,
-#languages+ul {
-	/* background-color: wheat; */
-	/* border: 1px solid black; */
 	border-left: none;
 	grid-column: 1 span;
 }
 
+#desarrollador-full-stack-para-la-consejería-de-educación-gobierno-de-canarias,
 #full-stack-developer-for-the-ministry-of-education-government-of-the-canary-islands {
 	grid-row: span 3;
 }
@@ -222,11 +227,13 @@ h2 {
 	font-size: 1.6rem;
 }
 
+/*
 #contact,
 #about-me,
 #recognitions {
 	color: rgb(24, 63, 82);
 }
+*/
 
 h2,
 h3 {

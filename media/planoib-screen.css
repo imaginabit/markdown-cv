@@ -153,6 +153,11 @@ h1,
   padding-left: 1em;
 }
 
+ul {
+   list-style-type: square;
+   list-style-position: inside;
+   padding-left: 1em;
+}
 
 /*
 #academic-background ~ ul li:first-child,

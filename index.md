@@ -2,6 +2,7 @@
 layout: cv
 title: Fernando Ramirez's CV
 ---
+
 # Fernando Ramírez Pérez
 
 Desarrollador web con más de 10 años de experiencia especializado en la creación de aplicaciones robustas y escalables. He trabajado en múltiples proyectos por cuenta propia y en equipo, utilizando una amplia gama de lenguajes, frameworks y tecnologías.
@@ -28,25 +29,27 @@ Participo  en múltiples proyectos, liderando algunos de ellos, como Lexicán y 
 - Herramientas: Docker, Openshift, CI/CD, Gitlab, Redmine
 
 `2007 - 2019`
-### Freelance Developer 
+### Desarrollador Web Autonomo
 **imaginabit**
+
+Imaginabit es el nombre comercial que usaba, durante este periodo realize diversos proyectos
 
 - Aplicaciones Android (Java y Kotlin)
 - Ruby on Rails, Django (Python), Drupal
 - Desarrollo de sitios y plug-ins en Wordpress
 - Automatización de la migración de datos de Joomla a Wordpress
 
-## Academic Background
+## Formación Académica
 
 `2009`
-- **Técnico Superior en Desarrollo de Aplicaciones Informaticas** IES El Rincón 
+- **Técnico Superior en Desarrollo de Aplicaciones Informáticas** IES El Rincón 
 
 `2025`
 
 - **Docencia de la formación para el empleo SSCE0110**
-- **Acreditacion Docente Para Teleformacion: Formador/A Online SSCE002PO**
-- **English C1 SSCE05**
-- **English B2 Cambridge Certificate**
+- **Acreditación Docente para Teleformación: Formador/A Online SSCE002PO**
+- **Inglés C1 SSCE05**
+- **Inglés B2 Cambridge Certificate**
 
 `2024`
 - **Codecademy Front-End Engineer Career Path**
@@ -61,24 +64,24 @@ Participo  en múltiples proyectos, liderando algunos de ellos, como Lexicán y 
 ## Habilidades
 
 - Agile y Scrum
-- Gestion de equipos
-- Resoltivo
+- Gestión de equipos
+- Resolutivo
 - Proactivo
 
-## Languages
+## Idiomas
 
-- **Spanish**: Native
-- **English**: C1
+- **Español**: Native
+- **Inglés**: C1
 
-## Proyectos destadados
+## Proyectos destacados
 
-### ITCB, Altia, Consejería Educación, Goberno de canarias
+### ITCB, Altia, Consejería de Educación, Gobierno de Canarias
 
 API para obtener datos de distintas áreas de centros educativos, profesores y alumnos
 
 - **Tecnologías**: Laravel
 
-### Lexicán, Altia, Consejería Educación, Gobierno de Canarias
+### Lexicán, Altia, Consejería de Educación, Gobierno de Canarias
 
 Proyecto que lidero y proporciona una herramienta útil a los docentes.
 
@@ -94,9 +97,9 @@ Proyecto que lidero y proporciona una herramienta útil a los docentes.
 - **Tecnologías**: Laravel PHP, VUE, GraphQL, PHPunit
 
 
-### EVAGD, Altia, Consejería Educación, Gobierno de Canarias
+### EVAGD, Altia, Consejería de Educación, Gobierno de Canarias
 
-- Moodle para centros educativos de canarias
+- Moodle para centros educativos de Canarias
 - Creamos sistema para crear y cargar backups 
 - Storage in Alfresco
 - [Online Presentation](https://www3.gobiernodecanarias.org/medusa/mediateca/evagd/?attachment_id=729)
@@ -105,21 +108,21 @@ Proyecto que lidero y proporciona una herramienta útil a los docentes.
 
 ### Ciudades Amigas de la Infancia, Unicef
 
-Plugin de wordpress para crear formularios especificos y analizar los datos almacenados en estos, se cren controles para responder preguntas con un DAFO, un mapa, tablas que muestran calculos segun se editan
+Plug-in de WordPress para crear formularios específicos y analizar los datos almacenados en estos. Se crean controles para responder preguntas con un DAFO, un mapa, tablas que muestran cálculos según se editan
 
 - [ciudadesamigas.org](https://ciudadesamigas.org)
-- **Tecnologías**:  PHP, WordPress Plugin, Angular, Maps
+- **Tecnologías**:  PHP, WordPress Plug-in, Angular, Maps
 
-### Aritmates, Altia, Consejería Educación, Gobierno de Canarias
+### Aritmates, Altia, Consejería de Educación, Gobierno de Canarias
 
-Aplicacion en javascript para generar ejercicios con operaciones matematicas.
+Aplicación en JavaScript para generar ejercicios con operaciones matemáticas.
 
 - [Aritmates](https://www3.gobiernodecanarias.org/medusa/apps/aritmates/)
-- **Tecnologías**: Javascript,  Webpack, Webcomponents
+- **Tecnologías**: JavaScript,  Webpack, Webcomponents
 
 ### Movesafer
 
-Desarrollo de un sistema seguridad en el trabajo y de control de acceso del personal
+Desarrollo de un sistema de seguridad en el trabajo y de control de acceso del personal
 
 - **Tecnologías**: Python, Django, API
 
@@ -150,5 +153,3 @@ Portal de anuncios
 <!-- ### Footer
 
 Last updated: March 2025 -->
-
-

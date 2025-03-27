@@ -41,15 +41,14 @@ Imaginabit es el nombre comercial que usaba, durante este periodo realize divers
 
 ## Formación Académica
 
-`2009`
 - **Técnico Superior en Desarrollo de Aplicaciones Informáticas** IES El Rincón 
+
+## Formación
 
 `2025`
 
-- **Docencia de la formación para el empleo SSCE0110**
-- **Acreditación Docente para Teleformación: Formador/A Online SSCE002PO**
-- **Inglés C1 SSCE05**
-- **Inglés B2 Cambridge Certificate**
+- **Docencia de la formación para el empleo**
+- **Acreditación Docente para Teleformación: Formador/A Online**
 
 `2024`
 - **Codecademy Front-End Engineer Career Path**
@@ -71,7 +70,7 @@ Imaginabit es el nombre comercial que usaba, durante este periodo realize divers
 ## Idiomas
 
 - **Español**: Nativo
-- **Inglés**: C1
+- **Inglés**: B2 Cambridge Certificate
 
 ## Proyectos destacados
 

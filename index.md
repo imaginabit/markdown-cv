@@ -17,7 +17,7 @@ Mi enfoque se centra en mantenerme actualizado con las mejores prácticas del de
 
 ## Experiencia Laboral
 
-:2019 - 2024:
+`2019 - 2024`
 ### Desarrollador Full Stack para la Consejería de Educación, Gobierno de Canarias
 **Altia, S.L. | **
 
@@ -27,7 +27,7 @@ Participo  en múltiples proyectos, liderando algunos de ellos, como Lexicán y 
 - Bases de datos: Postgres, MariaDB, MongoDB
 - Herramientas: Docker, Openshift, CI/CD, Gitlab, Redmine
 
-:2007 - 2019:
+`2007 - 2019`
 ### Freelance Developer 
 **imaginabit**
 
@@ -38,18 +38,21 @@ Participo  en múltiples proyectos, liderando algunos de ellos, como Lexicán y 
 
 ## Academic Background
 
-:2009:
+`2009`
 - **Técnico Superior en Desarrollo de Aplicaciones Informaticas** IES El Rincón 
 
-:2025:
+`2025`
+
 - **Docencia de la formación para el empleo SSCE0110**
 - **Acreditacion Docente Para Teleformacion: Formador/A Online SSCE002PO**
 - **English C1 SSCE05**
 - **English B2 Cambridge Certificate**
-:2024:
+
+`2024`
 - **Codecademy Front-End Engineer Career Path**
 - **Codecademy Vue.js**
-:2023:
+
+`2023`
 - **Clean Code aplicado para desarrollos limpios y rentables**
 - **Linux para DevOps y Sysadmin usando Docker y CI/CD**
 - **Machine Learning con Python**
@@ -147,4 +150,5 @@ Portal de anuncios
 <!-- ### Footer
 
 Last updated: March 2025 -->
+
 

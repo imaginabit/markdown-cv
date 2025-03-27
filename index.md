@@ -40,7 +40,10 @@ I participate in multiple projects, leading some of them, such as Lexicán and A
 ## Academic Background
 
 - **Higher Degree in Application Development** IES El Rincón - 2009
-  
+
+- **Teaching of training for employment <!-- Docencia de la formación para el empleo SSCE0110 -->** - 2025
+- **Teaching Accreditation for E-Learning: Online Trainer <!-- Acreditacion Docente Para Teleformacion: Formador/A Online --> SSCE002PO** - 2025
+- **English C1 SSCE05** - 2025
 - **English B2 Cambridge Certificate** - 2025
 - **Codecademy Front-End Engineer Career Path** - 2024
 - **Codecademy Vue.js** - 2024

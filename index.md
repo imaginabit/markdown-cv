@@ -70,7 +70,7 @@ Imaginabit es el nombre comercial que usaba, durante este periodo realize divers
 
 ## Idiomas
 
-- **Español**: Native
+- **Español**: Nativo
 - **Inglés**: C1
 
 ## Proyectos destacados

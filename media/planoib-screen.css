@@ -184,10 +184,52 @@ h1,
 /* =============================================
    ESTILOS ESPECÍFICOS DE COMPONENTES
 ============================================= */
+
+
+.highlighter-rouge {
+   padding: 0.5em;
+   font-weight: bold;
+}
+
+h1{ margin-bottom: 0.6em }
+
+
 #skills,
 #habilidades,
 #languages,
 #idiomas {
   text-decoration: underline;
   border: none;
+}
+
+/* =============================================
+   ESTILOS PARA MÓVILES
+============================================= */
+@media (max-width: 600px) {
+  #content {
+    display: block;
+  }
+
+  h1,
+  #work-experience,
+  #experiencia-laboral,
+  #featured-projects,
+  #proyectos-destacados,
+  #academic-background,
+  #formación-académica,
+  #skills,
+  #habilidades,
+  #languages,
+  #idiomas {
+    grid-column: auto;
+    width: 100%;
+  }
+
+  p, ul {
+    grid-column: auto;
+  }
+
+  #full-stack-developer-for-the-ministry-of-education-government-of-the-canary-islands {
+    grid-row: auto;
+  }
 }

@@ -154,10 +154,12 @@ h1,
 }
 
 
+/*
 #academic-background ~ ul li:first-child,
 #formación-académica ~ ul li:first-child {
   padding-bottom: 1em;
 }
+*/
 
 #academic-background ~ ul li,
 #formación-académica ~ ul li {

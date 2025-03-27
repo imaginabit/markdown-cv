@@ -59,8 +59,8 @@ body {
   line-height: 1.5;
   color: #333;
   background-color: #fff;
-  width: 55em;
-  margin: 5em auto;
+  max-width: 55em;
+ /* margin: 5em auto; */
 }
 
 h1, h2, h3, h4 {

@@ -17,8 +17,9 @@ Web developer with over 10 years of experience specializing in the creation of r
 
 ## Work Experience
 
+`2019 - 2024`
 ### Full Stack Developer for the Ministry of Education, Government of the Canary Islands
-**Altia, S.L. | 2019 - 2024**
+**Altia, S.L.**
 
 I participate in multiple projects, leading some of them, such as Lexicán and Aritmates.
 
@@ -27,8 +28,9 @@ I participate in multiple projects, leading some of them, such as Lexicán and A
 - **Databases**: Postgres, MariaDB, MongoDB
 - **Tools**: Docker, Openshift, CI/CD
 
+`2007 - 2019`
 ### Freelance Developer
-**imaginabit | 2007 - 2019**
+**imaginabit**
 
 - Android Applications (Java and Kotlin)
 - Ruby on Rails
@@ -39,18 +41,23 @@ I participate in multiple projects, leading some of them, such as Lexicán and A
 
 ## Academic Background
 
-- **Higher Degree in Application Development** IES El Rincón - 2009
+- **Higher Degree in Application Development** IES El Rincón
 
-- **Teaching of training for employment <!-- Docencia de la formación para el empleo SSCE0110 -->** - 2025
-- **Teaching Accreditation for E-Learning: Online Trainer <!-- Acreditacion Docente Para Teleformacion: Formador/A Online --> SSCE002PO** - 2025
-- **English C1 SSCE05** - 2025
-- **English B2 Cambridge Certificate** - 2025
-- **Codecademy Front-End Engineer Career Path** - 2024
-- **Codecademy Vue.js** - 2024
-- **Clean Code applied for clean and profitable developments** - 2023
-- **Linux for DevOps and Sysadmin using Docker and CI/CD** - 2023
-- **Machine Learning with Python** - 2023
-- **Python para Data Science** - 2023
+`2025`
+- **Teaching of training for employment <!-- Docencia de la formación para el empleo SSCE0110 -->** - 
+- **Teaching Accreditation for E-Learning: Online Trainer <!-- Acreditacion Docente Para Teleformacion: Formador/A Online SSCE002PO-->** - 
+- **English C1** -
+- **English B2 Cambridge Certificate**
+
+`2024`
+- **Codecademy Front-End Engineer Career Path**
+- **Codecademy Vue.js**
+
+`2023`
+- **Clean Code applied for clean and profitable developments**
+- **Linux for DevOps and Sysadmin using Docker and CI/CD**
+- **Machine Learning with Python**
+- **Python para Data Science**
 
 ## Skills
 
@@ -63,7 +70,7 @@ I participate in multiple projects, leading some of them, such as Lexicán and A
 ## Languages
 
 - **Spanish**: Native
-- **English**: B2
+- **English**: B2 Cambridge Certificated
 
 ## Featured Projects
 
@@ -132,6 +139,6 @@ A project I lead that provides a useful tool for teachers.
 
 <!-- ### Footer
 
-Last updated: November 2024 -->
+Last updated: April 2025 -->
 
 

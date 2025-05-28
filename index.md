@@ -94,7 +94,7 @@ Imaginabit es el nombre comercial que usaba, durante este periodo realize divers
 ## Idiomas
 
 - **Español**: Nativo
-- **Inglés**: B2 Cambridge Certificate
+- **Inglés**: C1 Cambridge Certificate
 
 ## Proyectos destacados
 
@@ -186,4 +186,4 @@ Portal de anuncios
 
 <!-- ### Footer
 
-Last updated: March 2025 -->
+Last updated: May 2025 -->

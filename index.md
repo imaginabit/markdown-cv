@@ -16,6 +16,30 @@ Mi enfoque se centra en mantenerme actualizado con las mejores prácticas del de
 
 - **Yo no desperdicio**: [World Summit Award](https://wsa-global.org/winner/yonodesperdicio-org/)
 
+
+## Tecnologías y versiones
+     
+                        
+| Lenguajes de Programación | v      |     | Frameworks y Librerías Web  | v     |     | CMS       | v   |
+| ------------------------- | ------ | --- | --------------------------- | ----- | --- | --------- | --- |
+| PHP                       | 8.3    |     | Laravel        (PHP)        | 11    |     | Moodle    | 3.5 |
+| JavaScript                | ES2024 |     | Symfony        (PHP)        | 7     |     | Drupal    | 11  |
+| TypeScript                | 5      |     | Angular        (JavaScript) | 19    |     | WordPress | 6   |
+| Java                      | 17     |     | Vue.js         (JavaScript) | 2 y 3 |     | Joomla    | 5   |
+| Kotlin                    | 2      |     | Ruby on Rails  (Ruby)       | 4     |     |           |     |
+| Python                    | 3      |     | Django         (Python)     | 4     |     |           |     |
+| Ruby                      | 2      |     | Webpack        (JavaScript) | 5     |     |           |     |
+
+ 
+| Bases de Datos | v   |     | Contenedores  | v     |     | Otras Herramientas | v   |
+| -------------- | --- | --- | ------------- | ----- | --- | ------------------ | --- |
+| PostgreSQL     | 17  |     | Docker        | 28    |     | GitLab             | 18  |
+| MariaDB        | 11  |     | Podman        | 5.4.2 |     | Redmine            | 6   |
+| MongoDB        | 8   |     | OpenShift/OKD | 4     |     | PHPUnit            | 12  |
+| MySQL          | 8   |     |               |       |     | SonarQube          | 10  |
+|                |     |     |               |       |     | Jenkins            |     |
+|                |     |     |               |       |     | Alfresco           |     |
+
 ## Experiencia Laboral
 
 `2019 - 2024`

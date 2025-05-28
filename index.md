@@ -98,6 +98,27 @@ Imaginabit es el nombre comercial que usaba, durante este periodo realize divers
 
 ## Proyectos destacados
 
+
+### EVAGD, Altia, Consejería de Educación, Gobierno de Canarias
+
+- Plataforma Moodle para centros educativos de Canarias
+-  Desarrollo Moodle: Diseño y desarrollo de un sistema avanzado de gestión de
+backups y compartición de contenido (SCORM, H5P) para Moodle.
+- Creación de Módulos: Desarrollo de módulos Moodle específicos para
+funcionalidades, como la integración de datos procedentes de la API de la Consejería,
+mostrar datos de profesores y alumnos respetando restricciones de seguridad.
+- Desarrollo Frontend Avanzado: Implementación de interfaces de usuario robustas
+utilizando JavaScript asíncrono (AMD, RequireJS) para optimizar la experiencia de
+usuario.
+- Integración de la solución con Alfresco y microservicios, implementando lógica de
+reintentos y sondeo para asegurar la consistencia y fiabilidad de los archivos ante
+desafíos de sincronización.
+El proyecto optimizó la reutilización y accesibilidad de recursos educativos clave para
+miles de docentes.
+- [Online Presentation](https://www3.gobiernodecanarias.org/medusa/mediateca/evagd/?attachment_id=729)
+- **Tecnologías**: Moodle (Desarrollo de Plugins y Módulos Propios), PHP, JavaScript (AMD,
+RequireJS), Microservicios, Alfresco.
+
 ### ITCB, Altia, Consejería de Educación, Gobierno de Canarias
 
 API para obtener datos de distintas áreas de centros educativos, profesores y alumnos
@@ -118,16 +139,6 @@ Proyecto que lidero y proporciona una herramienta útil a los docentes.
 - API con GraphQL
 - [https://edi.com.es](https://edi.cnmc.es/)
 - **Tecnologías**: Laravel PHP, VUE, GraphQL, PHPunit
-
-
-### EVAGD, Altia, Consejería de Educación, Gobierno de Canarias
-
-- Moodle para centros educativos de Canarias
-- Creamos sistema para crear y cargar backups 
-- Storage in Alfresco
-- [Online Presentation](https://www3.gobiernodecanarias.org/medusa/mediateca/evagd/?attachment_id=729)
-- **Tecnologías**: Laravel PHP, Microservicios, Alfresco
-
 
 ### Ciudades Amigas de la Infancia, Unicef
 

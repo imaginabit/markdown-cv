@@ -44,10 +44,8 @@ I participate in multiple projects, leading some of them, such as Lexicán and A
 - **Higher Degree in Application Development** IES El Rincón
 
 `2025`
-- **Teaching of training for employment <!-- Docencia de la formación para el empleo SSCE0110 -->** - 
-- **Teaching Accreditation for E-Learning: Online Trainer <!-- Acreditacion Docente Para Teleformacion: Formador/A Online SSCE002PO-->** - 
-- **English C1** -
-- **English B2 Cambridge Certificate**
+- **Teaching of training for employment  
+- **Teaching Accreditation for E-Learning: Online Trainer
 
 `2024`
 - **Codecademy Front-End Engineer Career Path**
@@ -57,7 +55,7 @@ I participate in multiple projects, leading some of them, such as Lexicán and A
 - **Clean Code applied for clean and profitable developments**
 - **Linux for DevOps and Sysadmin using Docker and CI/CD**
 - **Machine Learning with Python**
-- **Python para Data Science**
+- **Python for Data Science**
 
 ## Skills
 
@@ -70,9 +68,18 @@ I participate in multiple projects, leading some of them, such as Lexicán and A
 ## Languages
 
 - **Spanish**: Native
-- **English**: B2 Cambridge Certificated
+- **English**: C1 Cambridge Certificated
 
 ## Featured Projects
+
+### EVAGD, Altia, Consejería de Educación, Government of the Canary Islands
+
+- Moodle Platform for Educational Centers in the Canary Islands
+- Moodle Development: Design and development of an advanced system for backup management and content sharing (SCORM, H5P) for Moodle.
+- Module Creation: Development of specific Moodle modules for functionalities, such as data integration from the Ministry's API, and displaying teacher and student data while respecting security restrictions.
+- Advanced Frontend Development: Implementation of robust user interfaces using asynchronous JavaScript (AMD, RequireJS) to optimize the user experience.
+- Integration of the solution with Alfresco and microservices, implementing retry and polling logic to ensure file consistency and reliability amidst synchronization challenges.
+- [Online Presentation](https://www3.gobiernodecanarias.org/medusa/mediateca/evagd/?attachment_id=729)
 
 ### ITCB, Altia, Ministry of Education, Government of the Canary Islands
 
@@ -93,13 +100,6 @@ A project I lead that provides a useful tool for teachers.
 - Front with VUE 2 migrated to VUE 3
 - API with GraphQL
 - [https://edi.com.es](https://edi.cnmc.es/)
-
-### EVAGD, Altia, Education Government of the Canary Islands
-
-- Moodle platform for educational centers
-- Own system for creating and loading backups with web services
-- Storage in Alfresco
-- [Online Presentation](https://www3.gobiernodecanarias.org/medusa/mediateca/evagd/?attachment_id=729)
 
 ### Ciudades Amigas de la Infancia, Unicef
 
@@ -139,6 +139,6 @@ A project I lead that provides a useful tool for teachers.
 
 <!-- ### Footer
 
-Last updated: April 2025 -->
+Last updated: May 2025 -->
 
 

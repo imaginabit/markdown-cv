@@ -15,6 +15,30 @@ Web developer with over 10 years of experience specializing in the creation of r
 
 - **Yo no desperdicio**: [World Summit Award](https://wsa-global.org/winner/yonodesperdicio-org/)
 
+## Technologies experience
+
+| Programming Languages | v      |     | Frameworks  | v     |     | CMS       | v   |
+| ------------------------- | ------ | --- | --------------------------- | ----- | --- | --------- | --- |
+| PHP                       | 8.3    |     | Laravel        (PHP)        | 11    |     | Moodle    | 3.9 |
+| JavaScript                | ES2024 |     | Symfony        (PHP)        | 7     |     | Drupal    | 11  |
+| TypeScript                | 5      |     | Angular        (JavaScript) | 19    |     | WordPress | 6   |
+| Java                      | 17     |     | Vue.js         (JavaScript) | 2 y 3 |     | Joomla    | 5   |
+| Kotlin                    | 2      |     | Ruby on Rails  (Ruby)       | 4     |     |           |     |
+| Python                    | 3      |     | Django         (Python)     | 4     |     |           |     |
+| Ruby                      | 2      |                |     |
+
+ 
+| Databases | v   |     | Containers  | v     |     | Others | v   |
+| -------------- | --- | --- | ------------- | ----- | --- | ------------------ | --- |
+| PostgreSQL     | 17  |     | Docker        | 28    |     | GitLab             | 18  |
+| MariaDB        | 11  |     | Podman        | 5.4.2 |     | Redmine            | 6   |
+| MongoDB        | 8   |     | OpenShift/OKD | 4     |     | PHPUnit            | 12  |
+| MySQL          | 8   |     |               |       |     | SonarQube          | 10  |
+|                |     |     |               |       |     | Jenkins            |     |
+|                |     |     |               |       |     | Alfresco           |     |
+|                |     |     |               |       |     | Webpack        (JavaScript) | 5     |     |
+
+
 ## Work Experience
 
 `2019 - 2024`
@@ -75,7 +99,7 @@ I participate in multiple projects, leading some of them, such as Lexicán and A
 ### EVAGD, Altia, Consejería de Educación, Government of the Canary Islands
 
 - Moodle Platform for Educational Centers in the Canary Islands
-- Moodle Development: Design and development of an advanced system for backup management and content sharing (SCORM, H5P) for Moodle.
+- Design and development of an advanced system for backup management and content sharing (SCORM, H5P) for Moodle.
 - Module Creation: Development of specific Moodle modules for functionalities, such as data integration from the Ministry's API, and displaying teacher and student data while respecting security restrictions.
 - Advanced Frontend Development: Implementation of robust user interfaces using asynchronous JavaScript (AMD, RequireJS) to optimize the user experience.
 - Integration of the solution with Alfresco and microservices, implementing retry and polling logic to ensure file consistency and reliability amidst synchronization challenges.

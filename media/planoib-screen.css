@@ -142,7 +142,9 @@ h1,
    ESTILOS DE LISTAS
 ============================================= */
 #academic-background ~ ul,
-#formación-académica ~ ul {
+#formación-académica ~ ul,
+#tecnologías-y-versiones ~ table
+{
   /*
    padding-bottom: 2em;
   border-bottom: 2px solid black;

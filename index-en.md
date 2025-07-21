@@ -15,30 +15,6 @@ Web developer with over 10 years of experience specializing in the creation of r
 
 - **Yo no desperdicio**: [World Summit Award](https://wsa-global.org/winner/yonodesperdicio-org/)
 
-## Technologies experience
-
-| Programming Languages | v      |     | Frameworks  | v     |     | CMS       | v   |
-| ------------------------- | ------ | --- | --------------------------- | ----- | --- | --------- | --- |
-| PHP                       | 8.3    |     | Laravel        (PHP)        | 11    |     | Moodle    | 3.9 |
-| JavaScript                | ES2024 |     | Symfony        (PHP)        | 7     |     | Drupal    | 11  |
-| TypeScript                | 5      |     | Angular        (JavaScript) | 19    |     | WordPress | 6   |
-| Java                      | 17     |     | Vue.js         (JavaScript) | 2 y 3 |     | Joomla    | 5   |
-| Kotlin                    | 2      |     | Ruby on Rails  (Ruby)       | 4     |     |           |     |
-| Python                    | 3      |     | Django         (Python)     | 4     |     |           |     |
-| Ruby                      | 2      |                |     |
-
- 
-| Databases | v   |     | Containers  | v     |     | Others | v   |
-| -------------- | --- | --- | ------------- | ----- | --- | ------------------ | --- |
-| PostgreSQL     | 17  |     | Docker        | 28    |     | GitLab             | 18  |
-| MariaDB        | 11  |     | Podman        | 5.4.2 |     | Redmine            | 6   |
-| MongoDB        | 8   |     | OpenShift/OKD | 4     |     | PHPUnit            | 12  |
-| MySQL          | 8   |     |               |       |     | SonarQube          | 10  |
-|                |     |     |               |       |     | Jenkins            |     |
-|                |     |     |               |       |     | Alfresco           |     |
-|                |     |     |               |       |     | Webpack        (JavaScript) | 5     |     |
-
-
 ## Work Experience
 
 `2019 - 2024`
@@ -68,8 +44,8 @@ I participate in multiple projects, leading some of them, such as Lexicán and A
 - **Higher Degree in Application Development** IES El Rincón
 
 `2025`
-- **Teaching of training for employment  
-- **Teaching Accreditation for E-Learning: Online Trainer
+- **Teaching of training for employment**
+- **Teaching Accreditation for E-Learning: Online Trainer**
 
 `2024`
 - **Codecademy Front-End Engineer Career Path**
@@ -159,6 +135,28 @@ A project I lead that provides a useful tool for teachers.
 - Ruby On Rails, and front with jQuery
 - [www.demiurge-project.org](http://www.demiurge-project.org)
 
+## Technologies experience
+
+| Programming Languages | v      |     | Frameworks  | v     |     | CMS       | v   |
+| ------------------------- | ------ | --- | --------------------------- | ----- | --- | --------- | --- |
+| PHP                       | 8.3    |     | Laravel        (PHP)        | 11    |     | Moodle    | 3.9 |
+| JavaScript                | ES2024 |     | Symfony        (PHP)        | 7     |     | Drupal    | 11  |
+| TypeScript                | 5      |     | Angular        (JavaScript) | 19    |     | WordPress | 6   |
+| Java                      | 17     |     | Vue.js         (JavaScript) | 2 y 3 |     | Joomla    | 5   |
+| Kotlin                    | 2      |     | Ruby on Rails  (Ruby)       | 4     |     |           |     |
+| Python                    | 3      |     | Django         (Python)     | 4     |     |           |     |
+| Ruby                      | 2      |                |     |
+
+ 
+| Databases | v   |     | Containers  | v     |     | Others | v   |
+| -------------- | --- | --- | ------------- | ----- | --- | ------------------ | --- |
+| PostgreSQL     | 17  |     | Docker        | 28    |     | GitLab             | 18  |
+| MariaDB        | 11  |     | Podman        | 5.4.2 |     | Redmine            | 6   |
+| MongoDB        | 8   |     | OpenShift/OKD | 4     |     | PHPUnit            | 12  |
+| MySQL          | 8   |     |               |       |     | SonarQube          | 10  |
+|                |     |     |               |       |     | Jenkins            |     |
+|                |     |     |               |       |     | Alfresco           |     |
+|                |     |     |               |       |     | Webpack        (JavaScript) | 5     |     |
 
 
 <!-- ### Footer

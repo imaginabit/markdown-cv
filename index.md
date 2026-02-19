@@ -2,184 +2,98 @@
 layout: cv
 title: Fernando Ramirez's CV
 ---
-
 # Fernando Ramírez Pérez
+**Senior Full-Stack Developer**
 
-Desarrollador web con más de 10 años de experiencia especializado en la creación de aplicaciones robustas y escalables. He trabajado en múltiples proyectos por cuenta propia y en equipo, utilizando una amplia gama de lenguajes, frameworks y tecnologías.
+**Ubicación:** Las Palmas de Gran Canaria, España  
+**LinkedIn:** [linkedin.com/in/fernandorp](https://www.linkedin.com/in/fernandorp)
 
-Mi enfoque se centra en mantenerme actualizado con las mejores prácticas del desarrollo web, clean code, optimización y entrega de soluciones eficientes a medida de cada proyecto.
+---
 
-## Contacto
-- LinkedIn: [linkedin.com/in/fernandorp](https://www.linkedin.com/in/fernandorp)
+## Resumen Profesional
 
-## Reconocimientos
+Desarrollador Full-Stack Senior con más de 17 años de experiencia en la arquitectura y escalado de aplicaciones web robustas. Experto en el ecosistema Laravel/Vue con una trayectoria demostrada entregando soluciones de alto impacto para entidades gubernamentales (Consejería de Educación), ONGs internacionales (UNICEF) y sectores industriales (Marítimo y Astilleros). Especialista en la modernización de sistemas heredados (legacy), implementación de prácticas de código limpio (Clean Code) y liderazgo de proyectos digitales colaborativos.
 
-- **Yo no desperdicio**: [World Summit Award](https://wsa-global.org/winner/yonodesperdicio-org/)
+---
 
 ## Experiencia Laboral
 
-`2019 - 2024`
-### Desarrollador Full Stack para la Consejería de Educación, Gobierno de Canarias
-**Altia, S.L.**
+`2025 — Actualidad`
+### Desarrollador Full-Stack Senior | Hidramar Yards (Puerto de la Luz)
+**Proyecto:** *Hidramar Gest* – Sistema de gestión propio (ERP Marítimo) y Gestión Portuaria.
 
-Participo  en múltiples proyectos, liderando algunos de ellos, como Lexicán y Aritmates.
- - Lenguajes y frameworks: PHP (Laravel, Symfony, Moodle), JavaScript, TypeScript (Angular, Vue)
-- APIs: REST, OpenAPI, Swagger y también GraphQL
-- Bases de datos: Postgres, MariaDB, MongoDB
-- Herramientas: Docker, Openshift, CI/CD, Gitlab, Redmine
+* **Arquitectura e Implementación:** Diseño de módulos personalizados para CRM, facturación automatizada y logística marítima adaptados a operaciones de astilleros de gran escala.
+* **Modernización de Sistemas:** Liderazgo en la transición de procesos industriales heredados hacia interfaces reactivas y centradas en el usuario utilizando **Vue 3**.
+* **Optimización del Backend:** Refactorización de lógica de negocio compleja en **Laravel** para gestionar tarifas de servicios portuarios y sincronización de inventario en tiempo real.
 
-`2007 - 2019`
-### Desarrollador Web Autonomo
-**imaginabit**
+`2019 — 2024`
+### Desarrollador Full-Stack (Consejería de Educación, Gobierno de Canarias) | Altia, S.L.
+*Liderazgo y contribución en plataformas educativas de alto tráfico que dan servicio a miles de usuarios.*
 
-Imaginabit es el nombre comercial que usaba, durante este periodo realize diversos proyectos
+* **Liderazgo de Proyectos:** Dirección del desarrollo de plataformas clave como **Lexicán** y **Aritmates**.
+* **Stack Tecnológico:** PHP (Laravel, Symfony, Moodle), JavaScript (Angular, Vue).
+* **Infraestructura:** Gestión de entornos contenedorizados mediante **Docker**, **Openshift** y automatización de pipelines **CI/CD**.
 
-- Aplicaciones Android (Java y Kotlin)
-- Ruby on Rails, Django (Python), Drupal
-- Desarrollo de sitios y plug-ins en Wordpress
-- Automatización de la migración de datos de Joomla a Wordpress
+`2007 — 2019`
+### Desarrollador Senior Freelance | imaginabit
+*Provisión de soluciones digitales integrales para diversos clientes internacionales.*
 
-## Formación Académica
+* **Móvil:** Desarrollo de aplicaciones nativas para Android utilizando Java y Kotlin.
+* **Desarrollo Full-Stack:** Construcción y mantenimiento de sitios complejos utilizando Ruby on Rails, Django (Python) y Drupal.
 
-- **Técnico Superior en Desarrollo de Aplicaciones Informáticas** IES El Rincón 
+---
 
-## Formación
+## Portafolio de Proyectos Destacados
 
-`2025`
+### Lexicán (Consejería de Educación, Gobierno de Canarias)
+*Herramienta de creación de diccionarios colaborativos diseñada para docentes y alumnos de la región.*
+* **Tecnologías:** Laravel, PostgreSQL, Docker, OpenShift.
+* **Rol:** Líder de Proyecto.
 
-- **Docencia de la formación para el empleo**
-- **Acreditación Docente para Teleformación: Formador/A Online**
+### Aritmates (Consejería de Educación, Gobierno de Canarias)
+*Aplicación web interactiva para la generación y realización de ejercicios matemáticos.*
+* **Tecnologías:** JavaScript, Webcomponents, Webpack.
+* **Impacto:** Optimización del aprendizaje matemático digital en los centros educativos de las islas.
 
-`2024`
-- **Codecademy Front-End Engineer Career Path**
-- **Codecademy Vue.js**
+### Ciudades Amigas de la Infancia (UNICEF)
+*Plataforma para la iniciativa "Child Friendly Cities".*
+* **Tecnologías:** Angular (Frontend), desarrollo de plugins a medida para WordPress (Backend).
 
-`2023`
-- **Clean Code aplicado para desarrollos limpios y rentables**
-- **Linux para DevOps y Sysadmin usando Docker y CI/CD**
-- **Machine Learning con Python**
-- **Python para Data Science**
+### Demiurge-project.org (Jardín Botánico "Viera y Clavijo" / CSIC)
+*Plataforma de investigación científica para la geolocalización y seguimiento de poblaciones de especies vegetales.*
+* **Tecnologías:** Ruby on Rails, jQuery.
 
-## Habilidades
+### Yo No Desperdicio (Prosalus)
+*Plataforma premiada para la reducción del desperdicio de alimentos.*
+* **Reconocimiento:** [Ganador del World Summit Award](https://wsa-global.org/winner/yonodesperdicio-org/)
+* **Tecnologías:** Android Nativo (Java), Backend en PHP.
 
-- Agile y Scrum
-- Gestión de equipos
-- Resolutivo
-- Proactivo
+---
+
+## Habilidades Técnicas
+
+* **Lenguajes:** PHP (8.3), JavaScript (ES2024), TypeScript (5), Java (17), Kotlin (2), Python (3), Ruby.
+* **Frameworks:** Laravel (11), Vue.js (2/3), Symfony (7), Angular (19), Ruby on Rails, Django.
+* **Bases de Datos:** PostgreSQL (17), MariaDB (11), MongoDB (8), MySQL (8).
+* **DevOps:** Docker, Podman, OpenShift/OKD, CI/CD, Git, SonarQube, Jenkins.
+
+---
+
+## Certificaciones y Formación
+
+* **Técnico Superior en Desarrollo de Aplicaciones** | IES El Rincón
+
+### Certificaciones Profesionales
+* `2025` **Docencia de la formación profesional para el empleo** – Acreditación Profesional.
+* `2025` **Acreditación docente para teleformación: Formador Online**.
+* `2024` **Front-End Engineer Career Path** – Codecademy.
+* `2024` **Vue.js Specialist** – Codecademy.
+* `2023` **Principios de Clean Code para un desarrollo sostenible**.
+* `2023` **Linux para DevOps y Sysadmin (Docker y CI/CD)**.
+* `2023` **Machine Learning y Data Science con Python**.
+
+---
 
 ## Idiomas
-
-- **Español**: Nativo
-- **Inglés**: C1 Cambridge Certificate
-
-## Proyectos destacados
-
-
-### EVAGD, Altia, Consejería de Educación, Gobierno de Canarias
-
-- Plataforma Moodle para centros educativos de Canarias
--  Desarrollo Moodle: Diseño y desarrollo de un sistema avanzado de gestión de
-backups y compartición de contenido (SCORM, H5P) para Moodle.
-- Creación de Módulos: Desarrollo de módulos Moodle específicos para
-funcionalidades, como la integración de datos procedentes de la API de la Consejería,
-mostrar datos de profesores y alumnos respetando restricciones de seguridad.
-- Desarrollo Frontend Avanzado: Implementación de interfaces de usuario robustas
-utilizando JavaScript asíncrono (AMD, RequireJS) para optimizar la experiencia de
-usuario.
-- Integración de la solución con Alfresco y microservicios, implementando lógica de
-reintentos y sondeo para asegurar la consistencia y fiabilidad de los archivos ante
-desafíos de sincronización.
-El proyecto optimizó la reutilización y accesibilidad de recursos educativos clave para
-miles de docentes.
-- [Online Presentation](https://www3.gobiernodecanarias.org/medusa/mediateca/evagd/?attachment_id=729)
-- **Tecnologías**: Moodle (Desarrollo de Plugins y Módulos Propios), PHP, JavaScript (AMD,
-RequireJS), Microservicios, Alfresco.
-
-### ITCB, Altia, Consejería de Educación, Gobierno de Canarias
-
-API para obtener datos de distintas áreas de centros educativos, profesores y alumnos
-
-- **Tecnologías**: Laravel
-
-### Lexicán, Altia, Consejería de Educación, Gobierno de Canarias
-
-Proyecto que lidero y proporciona una herramienta útil a los docentes.
-
-- **Tecnologías**: Laravel PHP, PostgreSQL, Openshift, Docker, Git, PHPunit
-- [Video: un diccionario colaborativo](https://www3.gobiernodecanarias.org/medusa/mediateca/ecoescuela/?attachment_id=6172)
-
-### EDI, Altia, CNMC Comisión Nacional de los Mercados y la Competencia
-
-- Aplicación web con Laravel.
-- Front con VUE 2 trabajamos en la migración a VUE 3
-- API con GraphQL
-- [https://edi.com.es](https://edi.cnmc.es/)
-- **Tecnologías**: Laravel PHP, VUE, GraphQL, PHPunit
-
-### Ciudades Amigas de la Infancia, Unicef
-
-Plug-in de WordPress para crear formularios específicos y analizar los datos almacenados en estos. Se crean controles para responder preguntas con un DAFO, un mapa, tablas que muestran cálculos según se editan
-
-- [ciudadesamigas.org](https://ciudadesamigas.org)
-- **Tecnologías**:  PHP, WordPress Plug-in, Angular, Maps
-
-### Aritmates, Altia, Consejería de Educación, Gobierno de Canarias
-
-Desarrollo integral de la aplicación educativa Aritmates, una herramienta para la generación de ejercicios matemáticos personalizables. Como único desarrollador, fui responsable de toda la lógica en JavaScript (usando decimal.js para la precisión) y de la maquetación HTML/CSS a partir de un diseño dado. 
-Desarrollé una funcionalidad clave para exportar las series de ejercicios a formato PDF con jsPDF, facilitando su impresión y uso offline en el aula por parte del profesorado.
-Aritmates se usa por los alumnos como generador de ejercicios dinámico, permitiendo personalizar operaciones, rangos numéricos y tipos de problemas.
-
-- [Aritmates](https://www3.gobiernodecanarias.org/medusa/apps/aritmates/)
-- **Tecnologías**: JavaScript,  Webpack, Webcomponents
-
-### Movesafer
-
-Desarrollo de un sistema de seguridad en el trabajo y de control de acceso del personal
-
-- **Tecnologías**: Python, Django, API
-
-### Android App Yo No Desperdicio, Prosalus
-
-- Aplicación nativa Android
-- [Google Play](https://play.google.com/store/apps/details?id=com.prosalus.yonodesperdicio)
-- [Screenshots](https://www.freepress.coop/project/app-yo-no-desperdicio/)
-- **Tecnologías**: Java, Kotlin
-
-
-
-### Demiurge-project.org, Canary Islands Botanical Garden "Viera y Clavijo". CSIC, ITC
-
-Web para subir datos y geo localizar información de poblaciones de especies, orientado a investigadores 
-- [www.demiurge-project.org](http://www.demiurge-project.org)
-- **Tecnologías**: RoR Ruby on rails
-
-
-### Alpuca SX
-
-Portal de anuncios
-
-- **Tecnologías**: Django (Python), Docker
-
-
-## Tecnologías y versiones
-     
-                        
-| Lenguajes de Programación | v      |     | Frameworks y Librerías Web  | v     |     | CMS       | v   |
-| ------------------------- | ------ | --- | --------------------------- | ----- | --- | --------- | --- |
-| PHP                       | 8.3    |     | Laravel        (PHP)        | 11    |     | Moodle    | 3.5 |
-| JavaScript                | ES2024 |     | Symfony        (PHP)        | 7     |     | Drupal    | 11  |
-| TypeScript                | 5      |     | Angular        (JavaScript) | 19    |     | WordPress | 6   |
-| Java                      | 17     |     | Vue.js         (JavaScript) | 2 y 3 |     | Joomla    | 5   |
-| Kotlin                    | 2      |     | Ruby on Rails  (Ruby)       | 4     |     |           |     |
-| Python                    | 3      |     | Django         (Python)     | 4     |     |           |     |
-| Ruby                      | 2      |     | Webpack        (JavaScript) | 5     |     |           |     |
-
- 
-| Bases de Datos | v   |     | Contenedores  | v     |     | Otras Herramientas | v   |
-| -------------- | --- | --- | ------------- | ----- | --- | ------------------ | --- |
-| PostgreSQL     | 17  |     | Docker        | 28    |     | GitLab             | 18  |
-| MariaDB        | 11  |     | Podman        | 5.4.2 |     | Redmine            | 6   |
-| MongoDB        | 8   |     | OpenShift/OKD | 4     |     | PHPUnit            | 12  |
-| MySQL          | 8   |     |               |       |     | SonarQube          | 10  |
-|                |     |     |               |       |     | Jenkins            |     |
-|                |     |     |               |       |     | Alfresco           |     |
+* **Español:** Nativo
+* **Inglés:** C1 (Certificado por Cambridge)

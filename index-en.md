@@ -2,7 +2,9 @@
 layout: cv
 title: Fernando Ramirez's CV
 ---
+
 # Fernando Ramírez Pérez
+
 **Senior Full-Stack Developer**
 
 **Location:** Las Palmas de Gran Canaria, Spain  
@@ -12,90 +14,103 @@ title: Fernando Ramirez's CV
 
 ## Professional Summary
 
-Senior Full-Stack Developer with over 17 years of experience architecting and scaling robust web applications. Expert in the Laravel/Vue ecosystem with a proven track record of delivering high-impact solutions for government entities, international NGOs, and industrial maritime sectors. Specialist in modernizing legacy systems and implementing clean code practices.
+Senior Full-Stack Developer with over 17 years of experience architecting and scaling robust web applications. Expert in the **PHP (Laravel) and JavaScript (Vue.js)** ecosystem, with a versatile background in **Ruby on Rails and Python**. Proven track record of delivering high-impact solutions for government entities, international NGOs, and the industrial maritime sector. Specialist in modernizing legacy systems, implementing **Web Components**, and enforcing clean code practices.
 
 ---
 
 ## Work Experience
 
-`2025 — Present`
 ### Senior Full-Stack Developer | Hidramar Yards (Puerto de la Luz)
-**Project:** *Hidramar Gest* – A proprietary, integrated Maritime Enterprise Resource Planning (ERP) and Port Management System.
 
-* **Architecting & Implementation:** Designing custom modules for CRM, automated billing, and maritime logistics specifically tailored for large-scale shipyard operations.
-* **System Modernization:** Spearheading the transition of legacy industrial processes into reactive, user-centric interfaces using **Vue 3**.
-* **Backend Optimization:** Refactoring complex business logic in **Laravel** to handle intricate port service tariffs and real-time inventory synchronization.
+`2025 - Present`
 
-`2019 — 2024`
-### Full-Stack Developer (Ministry of Education, Canary Islands) | Altia, S.L.
+**Project:** *Hidramar Gest* - A proprietary, integrated Maritime Enterprise Resource Planning (ERP) and Port Management System.
+
+* **Architecture & Implementation:** Currently designing custom modules for CRM, automated billing, and maritime logistics using **Laravel** and **Vue 3**.
+* **System Modernization:** Spearheading the transition of legacy industrial processes into reactive, user-centric interfaces.
+* **Backend Optimization:** Refactoring complex business logic to handle intricate port service tariffs and real-time inventory synchronization.
+
+### Full-Stack Developer | Consejería de Educación, Gobierno de Canarias (via Altia, S.L.)
+
+`2019 - 2024`
+
 * **Project Leadership:** Directed the development of high-traffic platforms including **Lexicán** and **Aritmates**.
-* **Stack:** PHP (Laravel, Symfony, Moodle), JavaScript (Angular, Vue).
-* **Infrastructure:** Managed containerized environments using **Docker**, **Openshift**, and automated **CI/CD** pipelines.
+* **Frontend Excellence:** Developed reusable **Web Components** to standardize UI across regional educational tools.
+* **Stack:** PHP (Laravel, Symfony, Moodle), JavaScript (Vue.js, Angular).
+* **Infrastructure:** Managed containerized environments using **Docker**, **OpenShift**, and automated **CI/CD** pipelines.
 
-`2007 — 2019`
-### Senior Freelance Developer | imaginabit
-* **Mobile:** Developed native Android applications using Java and Kotlin.
-* **Full-Stack Development:** Built and maintained complex sites using Ruby on Rails, Django (Python), and Drupal.
+### Senior Full-Stack Developer | imaginabit
+
+`2007 - 2019`
+
+* **Strategic Projects:**
+    * **Alpuca:** Architected and developed a comprehensive livestock management system for the Canary Islands Government using **Ruby on Rails** and **PostgreSQL**.
+    * **MoveSafer:** Developed a logistics and road safety platform utilizing **Python (Django)** and real-time data processing.
+* **Mobile Development:** Built native Android applications using Java and Kotlin.
+* **Consultancy:** Provided technical leadership for diverse clients, focusing on scalability and multi-language backend solutions.
 
 ---
 
 ## Portfolio of Key Projects
 
-### Lexicán (Ministry of Education, Govt. of the Canary Islands)
-*A collaborative dictionary creation tool designed for regional teachers and students.*
-* **Technologies:** Laravel, PostgreSQL, Docker, OpenShift.
-* **Role:** Project Lead.
+### Lexicán & Aritmates (Consejería de Educación, Gobierno de Canarias)
 
-### Aritmates (Ministry of Education, Govt. of the Canary Islands)
-*Interactive web application for mathematical exercise generation and performance.*
-* **Technologies:** JavaScript, Webcomponents, Webpack.
-* **Impact:** Streamlined digital math learning across regional schools.
+*Collaborative dictionary and interactive math tools for regional education.*
+
+* **Technologies:** Laravel, JavaScript, **Web Components**, PostgreSQL, OpenShift.
+* **Role:** Project Lead & Frontend Architect.
 
 ### Ciudades Amigas de la Infancia (UNICEF)
+
 *Platform for the "Child Friendly Cities" initiative.*
+
 * **Technologies:** Angular (Frontend), WordPress Plugin Development (Backend).
 
-### Demiurge-project.org (Botanical Garden "Viera y Clavijo" / CSIC)
-*Scientific research platform for geolocating and tracking plant species populations.*
+### Demiurge-project.org (Jardín Botánico "Viera y Clavijo" / CSIC)
+
+*Scientific research platform for geolocating and tracking endangered plant species.*
+
 * **Technologies:** Ruby on Rails, jQuery.
 
 ### Yo No Desperdicio (Prosalus)
-*Award-winning food waste reduction platform.*
-* **Recognition:** World Summit Award Winner.
+
+*Award-winning food waste reduction platform (World Summit Award Winner).*
+
 * **Technologies:** Native Android (Java), PHP Backend.
 
 ---
 
 ## Technical Skills
 
-* **Languages:** PHP (8.3), JavaScript (ES2024), TypeScript (5), Java (17), Kotlin (2), Python (3), Ruby.
-* **Frameworks:** Laravel (11), Vue.js (2/3), Symfony (7), Angular (19), Ruby on Rails, Django.
+* **Languages:** PHP (8.3), JavaScript (ES2024), **Ruby**, **Python**, Java (17), Kotlin, TypeScript.
+* **Backend:** **Laravel (11)**, **Ruby on Rails**, **Django**, Symfony, Node.js.
+* **Frontend:** **Vue.js (2/3)**, **Web Components**, Angular, Tailwind CSS.
+* **DevOps & Cloud:** Docker, Podman, OpenShift/OKD, CI/CD, Git, Linux (Sysadmin).
 * **Databases:** PostgreSQL, MariaDB, MongoDB, MySQL.
-* **DevOps:** Docker, Podman, OpenShift/OKD, CI/CD, Git, SonarQube, Jenkins.
 
 ---
 
 ## Certifications & Education
 
-* **Higher Degree in Application Development** | IES El Rincón
+* **Higher Degree in Application Development (DAW)** | IES El Rincón
 
-### Professional Certifications
-* `2025` **Vocational Training for Employment** – Professional Accreditation.
-* `2025` **E-Learning & Online Training Accreditation** – Instructional Design.
-* `2024` **Front-End Engineer Career Path** – Codecademy.
-* `2024` **Vue.js Specialist** – Codecademy.
-* `2023` **Clean Code Principles** – Specialized Training.
+### Professional Training
+
+* `2024` **Front-End Engineer & Vue.js Specialist** - Codecademy.
+* `2023` **Clean Code Principles** - Specialized Training.
 * `2023` **Linux for DevOps & Sysadmin (Docker & CI/CD)**.
 * `2023` **Machine Learning & Data Science with Python**.
+* `2025` **Vocational Training for Employment (SSCE0110)**.
 
 ---
 
 ## Languages
+
 * **Spanish:** Native
 * **English:** C1 (Cambridge Certified)
 
-<!-- ### Footer
+---
 
-Last updated: Feb 2026 -->
+*Last updated: February 2026*
 
 
